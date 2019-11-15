@@ -7,6 +7,6 @@ def toadstool
   puts status= 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
-def any_phrase(phrase)
-  puts"It's Dangerous To Go Alone!Take This."
+def link(phrase)
+  puts phrase = "It's Dangerous To Go Alone!Take This."
 end
