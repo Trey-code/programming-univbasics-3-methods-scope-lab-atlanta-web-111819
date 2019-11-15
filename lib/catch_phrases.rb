@@ -7,6 +7,6 @@ def toadstool
   puts status= 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 
-def any_phrase
+def any_phrase(phrase)
   puts phrase= "Do A Barrel Roll"
 end
