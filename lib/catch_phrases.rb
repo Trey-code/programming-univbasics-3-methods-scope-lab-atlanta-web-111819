@@ -8,5 +8,5 @@ def toadstool
 end
 
 def any_phrase(phrase)
-  puts "Do A Barrel Roll\n"
+  puts"It's Dangerous To Go Alone!Take This."
 end
