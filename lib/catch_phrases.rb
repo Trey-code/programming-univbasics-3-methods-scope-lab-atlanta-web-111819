@@ -8,4 +8,5 @@ def toadstool
 end
 
 def any_phrase
-  puts 
+  puts phrase= "Do A Barrel Roll"
+end
